@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Crunchyroll 0 Generique
+// @name         Crunchyroll 0 Generique
 // @description  Saute les openings et les credits pour passer directement a la suite et eviter les spoilers post-generique.
 // @match        *://*.crunchyroll.com/*
+// @homepageURL  https://ni-ninks.netlify.app/
 // @author       ni.binks
 // @namespace    ni-binks
-// @version     1.0.0
+// @version      1.0.0
 // @grant        none
-// @contributionURL https://ni-ninks.netlify.app/
-// @contributionAmount 1
 // ==/UserScript==
 
 (function() {
