@@ -4,7 +4,7 @@
 // @match        *://*.crunchyroll.com/*
 // @author       ni.binks
 // @namespace    ni-binks
-/// @version     1.0.0
+// @version     1.0.0
 // @grant        none
 // @contributionURL https://ni-ninks.netlify.app/
 // @contributionAmount 1
